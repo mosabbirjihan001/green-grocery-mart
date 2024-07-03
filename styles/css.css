@@ -1,0 +1,42 @@
+img{
+    background-color: cornflowerblue;
+    box-shadow: 20px 20px 20px;
+    color: rgb(168, 90, 190);
+
+}
+#green{
+    color: rgb(13, 67, 227);
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 7px 10px;
+    text-transform: capitalize;
+    border-radius: 20px 20px 20px;
+    
+}
+p{
+    color: rgb(87, 9, 255);
+    background-color:rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.five{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(13, 110, 255);
+    margin: 2px 2px 2px;
+    padding: 10px 10px 10px;
+    border-radius: 20px 20px 20px;
+    box-shadow: 10px 10px 10px;
+    font-size: larger;
+    font-family: monospace;
+}
+.list{
+    color: rgb(255, 251, 12);
+    background-color: rgb(32, 162, 255);
+    font-size: x-large;
+    border-radius: 40px 40px 40px;
+    padding: 20px;
+    box-shadow: 20px 10px 30px;
+
+}
